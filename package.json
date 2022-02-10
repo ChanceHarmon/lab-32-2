@@ -5,7 +5,7 @@
   "dependencies": {
     "@nmq/q": "^1.0.5",
     "express": "^4.17.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.2",
